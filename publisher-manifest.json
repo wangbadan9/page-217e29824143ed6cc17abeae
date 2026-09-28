@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "6d7f3864ea09147149d71f87",
+  "owner": "wangbadan9",
+  "repo": "page-217e29824143ed6cc17abeae",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "217e29824143ed6cc17abeae",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e8522d5fd3e0b1a1c2fc58ce34fc44cde1bf719f3b98a18007661cb26081bcfe",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云为您提供优质的VPN加速服务，解锁流媒体内容，提升上网速度。",
+          "AI_DESCRIPTION": "大哥云为您提供优质的VPN加速服务，解锁流媒体内容，提升上网速度。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n    body {\n        font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif;\n        background-color: #f8f5f0;\n        color: #333;\n        line-height: 1.7;\n        margin: 0 auto;\n        max-width: 780px;\n        padding: 20px;\n    }\n    h1 {\n        color: #ff6b6b;\n        font-size: 2.8rem;\n        text-align: center;\n        margin-bottom: 20px;\n    }\n    h2 {\n        color: #ff6b6b;\n        font-size: 1.8rem;\n        margin: 30px 0 15px;\n    }\n    .step {\n        background: white;\n        border-radius: 12px;\n        padding: 24px;\n        margin-bottom: 20px;\n        box-shadow: 0 4px 12px rgba(255, 107, 107, 0.08);\n    }\n    ol {\n        list-style: none;\n        padding: 0;\n    }\n    li {\n        margin-bottom: 30px;\n    }\n    h3 {\n        color: #ff6b6b;\n        margin: 0 0 10px;\n        font-size: 1.5rem;\n    }\n    p {\n        margin: 10px 0;\n    }\n    .placeholder {\n        background: #fff;\n        border: 1px solid #eee;\n        padding: 15px;\n        border-radius: 8px;\n        margin: 15px 0;\n    }\n    details {\n        background: white;\n        border-radius: 10px;\n        padding: 15px;\n        margin-bottom: 12px;\n        box-shadow: 0 2px 6px rgba(0,0,0,0.05);\n    }\n    summary {\n        font-weight: bold;\n        color: #ff6b6b;\n        cursor: pointer;\n        font-size: 1.1rem;\n    }\n    .footer-note {\n        text-align: center;\n        margin-top: 40px;\n        font-size: 0.9rem;\n        color: #777;\n    }\n</style>\n\n\n<main>\n<h1>大哥云</h1>\n<p>安全稳定的高速VPN加速器，帮助您畅享无忧网络世界</p>\n<h2>配置流程</h2>\n<ol>\n<li>\n<div class=\"step\">\n<h3>步骤 1：选择套餐</h3>\n<p>根据您的需求和预算，选择最适合的大哥云套餐。不同套餐提供不同的流量额度、设备支持和功能优化。</p>\n<div class=\"placeholder\">{{PLANS_HTML}}</div>\n</div>\n</li>\n<li>\n<div class=\"step\">\n<h3>步骤 2：下载客户端</h3>\n<p>选择合适的客户端版本后，下载安装包开始配置。</p>\n<div class=\"placeholder\">{{CLIENTS_HTML}}</div>\n</div>\n</li>\n<li>\n<div class=\"step\">\n<h3>步骤 3：安装客户端</h3>\n<p>运行安装程序，按照向导完成软件安装。</p>\n</div>\n</li>\n<li>\n<div class=\"step\">\n<h3>步骤 4：注册与登录</h3>\n<p>使用邮箱或手机号注册账号，完成登录。</p>\n</div>\n</li>\n<li>\n<div class=\"step\">\n<h3>步骤 5：连接加速</h3>\n<p>选择节点并连接，即可享受大哥云提供的网络加速服务。</p>\n</div>\n</li>\n</ol>\n<h2>常见问题</h2>\n<details>\n<summary>大哥云提供哪些套餐选择？</summary>\n<p>我们为您准备了基础版、旗舰版和团队版三种不同等级的套餐，满足从个人到企业用户的多样化需求。</p>\n</details>\n<details>\n<summary>下载客户端后如何进行配置？</summary>\n<p>按照上面的配置流程步骤操作，即可快速完成客户端的安装和连接设置。</p>\n</details>\n<details>\n<summary>大哥云支持的设备有哪些？</summary>\n<p>不同套餐对应不同的设备同时在线数量，建议根据实际需求选择合适的套餐。</p>\n</details>\n<details>\n<summary>如何获得技术支持？</summary>\n<p>我们提供7x24在线客服服务，如有任何问题可随时联系我们的工单系统。</p>\n</details>\n<details>\n<summary>大哥云的优势是什么？</summary>\n<p>作为专业的VPN加速品牌，大哥云致力于提供稳定高速的网络服务，让用户轻松解锁全球内容。</p>\n</details>\n</main>\n<div class=\"footer-note\">\n© 大哥云 2024 | 版权所有\n</div>\n\n",
+          "hash": "d4b37b42e1268361d94cffcb6c2c14b28c0a63ceaab85ce8fb6980b3b7aa9a84",
+          "seo": {
+            "title": "大哥云 - 高速VPN网络加速器 | 机场订阅客户端下载",
+            "keywords": "大哥云,高速VPN,加速器,机场订阅,客户端下载,流量套餐",
+            "description": "大哥云为您提供优质的VPN加速服务，解锁流媒体内容，提升上网速度。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mivdueo.cn",
+    "host": "m.mivdueo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "mivdueo.cn",
+      "url": "https://mivdueo.cn/",
+      "label": "Dogess",
+      "apex": "mivdueo.cn",
+      "kind": null,
+      "identity": "rtedbtqmng/page-6f6f8807156c3e33ea3937e1"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "62fd96a959cef5f334e6a8924c634e47890fb0498bd958f93e1081f61262a00f",
+    "sitemap.xml": "856de1cbdf01d8defbfc0eedca391e285c9287b14da31077d4f020de9f173576",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ed055d001ed00b1b6dc6c88da07f374324f197a3c31411a737d4cb5723f8e59a",
+    "robots.txt": "29a3dc768b7567a20c9016001cf777575ae77fab5b4d2de9396d7e6a6e10ca0d",
+    "3daab9f716accb65c29fcd494b6ee977.txt": "8d6233c630220f059bbd1dd7844111416efd5eba503b93e5d1583acc1d259cd9"
+  },
+  "revision": "e96f8af3a06d686ea179c785fca767ba9b823f469b6561b4aa09229404efdf33"
+}
